@@ -1,0 +1,17 @@
+p{
+    text-align: center;
+    font-family: "Arial Black";
+}
+body{
+    background-image: url("capa.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+
+}
+a{
+    text-align: left;
+}
+b{
+    font-family: "Arial Black";
+    color: red;
+}
